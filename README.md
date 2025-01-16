@@ -1,2 +1,1 @@
-<p>Счетчик просмотров</p>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{pip64}/count.svg" /></p> 
+<a href="https://wakatime.com/@2306a4fd-d816-417c-9e8b-2c47d8a78608"><img src="https://wakatime.com/badge/user/2306a4fd-d816-417c-9e8b-2c47d8a78608.svg" alt="Total time coded since Aug 28 2024" /></a>
